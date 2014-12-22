@@ -1,0 +1,8 @@
+ssl: true
+email: ''
+password: ''
+log: true
+test:
+  currency_id: 
+  category_id: 
+  account_id: 
